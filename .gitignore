@@ -60,3 +60,5 @@ build
 
 # aoc input data
 input
+
+.kotlin/
